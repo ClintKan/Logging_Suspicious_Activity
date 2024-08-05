@@ -36,9 +36,13 @@ Created the script that was to filter and output from the log file “auth_log.l
 Note: grep -i is to capture all entries of the “hit words” regardless of format (uppercase or lowercase).
 
 Before script runs
+
+
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/2252526c-9d6b-482e-bb09-3ce8794f9a6e">
 
 After script runs
+
+
 <img width="477" alt="image" src="https://github.com/user-attachments/assets/89b24196-ff91-4ca7-9db3-0507f9ffb6a6">
 
 
