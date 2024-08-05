@@ -19,6 +19,7 @@ Copied the provided script “auth_log_creation.sh” from the cloned directory 
 Copying using the syntax: _cp /home/ubuntu/analyz_logfiles_hw/install-sh ~/ analyz_logfiles_hw_
 
 Note: ~ = /home/ubuntu
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/b8ac7cee-2ecb-4f2b-972a-060fa4c0807e">
 
 
