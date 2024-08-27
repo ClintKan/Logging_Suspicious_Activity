@@ -11,6 +11,7 @@ Navigated into that directory: _cd ~/analyz_logfiles_hw_
 **Step 3:**
 Cloned the shell script from GitHub – by cloning the whole repo.
 _git clone https://github.com/kura-labs-org/install-sh.git_
+
 <img width="432" alt="image" src="https://github.com/user-attachments/assets/e7753c74-f354-4dad-addb-74bceed45bfa">
 
 
